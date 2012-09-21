@@ -1,0 +1,28 @@
+{
+  "name": "reflecta_moto1",
+  "description": "Node.js client for the Reflecta moto1 interface for motor control boards like the Sparkfun Monster Moto",
+  "version": "0.1.0",
+  "homepage": "https://github.com/JayBeavers/reflecta_moto1",
+  "author": {
+    "name": "Jay Beavers",
+    "email": "jay@hikinghomeschoolers.org",
+    "url": "http://jaybeavers.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JayBeavers/reflecta_moto1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaybeavers/reflecta_moto1/issues"
+  },
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "https://github.com/JayBeavers/jaybeavers/reflecta_moto1/blob/master/LICENSE"
+    }
+  ],
+  "main": "reflecta",
+  "engines": {
+    "node": ">= 0.8.1"
+  }
+}

@@ -1,4 +1,4 @@
-// MOTO1 interface for the RocketBot Drive Base Teensy project
+// moto1 interface for the RocketBot Drive Base Teensy project
 // Implements node.js API for the SparkFun Monster Moto Board
 
 module.exports = function(reflecta, interfaceStart) {
